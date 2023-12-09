@@ -21,7 +21,7 @@ Whether you're a developer, a creative professional, or just someone who loves t
 
 - Don’t miss out on new additions and updates. Watch this repo and be the first to know about new tools and features.
 - Visit our [Toolzr homepage](https://toolzr.com) for more information and updates.
-- Connect with us on [Twitter](https://twitter.com/toolzrcom), [Facebook](https://facebook.com/toolzr), [YouTube](https://www.youtube.com/channel/UCfw-NMyc2HEIhAD87CGHSMw) and [LinkedIn](https://linkedin.com/company/toolzr) for the latest news and community discussions.
+- Connect with us on [Twitter](https://twitter.com/toolzrcom), [Facebook](https://www.facebook.com/toolzrcom/), [YouTube](https://www.youtube.com/channel/UCfw-NMyc2HEIhAD87CGHSMw) and [LinkedIn](https://linkedin.com/company/toolzr) for the latest news and community discussions.
 
 ## 🌟 Ready to Explore?
 
